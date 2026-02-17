@@ -1,0 +1,21 @@
+.odd{
+    background-color: pink;
+    font-family: Verdana, sans-serif;
+
+}
+#second-div{
+    color: blue;
+    font-size: 36px;
+}
+.odd.cooler{
+    font-size: 24px;
+}
+#fourth-div{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+div{
+    margin-bottom: 20px;
+}
