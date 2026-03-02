@@ -1,0 +1,54 @@
+.flex-header-2-container{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid black;
+    align-items: center;
+    padding: 8px;
+}
+
+.flex-header-2-left-side{
+    display: flex;
+    align-items: center;
+    gap: 16px
+}
+
+.flex-header-2-logo{
+    font-size: 36px;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.flex-header-2-left-links{
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    gap: 16px;
+    color: purple;
+    font-size: 18px;
+}
+
+li{
+    list-style: none;
+    margin: 0px;
+}
+
+.flex-header-2-right-side{
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.notification-button{
+    color: white;
+    background-color: purple;
+    padding: 8px 24px;
+    border: none;
+    border-radius: 8px;
+}
+
+.flex-header-2-circle{
+    width: 50px;
+    height: 50px;
+    background-color: purple;
+    border-radius: 50%;
+}
