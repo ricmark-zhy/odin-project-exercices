@@ -1,0 +1,37 @@
+body, #flex-information-title, h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.flex-information-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+}
+
+.flex-information-cards-container{
+    display: flex;
+    width: 80%;
+    gap: 52px;
+}
+
+.flex-information-cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 250px;
+}
+
+.plant-images{
+    width: 120px;
+}
+
+p{
+    font-size: 20px;
+    text-align: center;
+}
+
